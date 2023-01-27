@@ -13,7 +13,6 @@ Node JS Version ^16.0.0
 
 If you Can't install Node v16.
 
-You can Try The Old Release [Here](https://github.com/Abdul1810/support-bot-with-buttons/tree/djs-v12)
 
 # Instructions
 
